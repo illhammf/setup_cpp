@@ -6,7 +6,7 @@ menggunakan **MSYS2 + MinGW GCC** Compiler pada Windows.
 
 ## 📥 1. Download MSYS2
 Download installer MSYS2 berikut:
-```text
+```sh
 https://github.com/msys2/msys2-installer/releases/download/2026-03-22/msys2-x86_64-20260322.exe 
 ```
 
@@ -121,7 +121,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ## 💻 7. Install Visual Studio Code
 
 Download Visual Studio Code:
-```text
+```sh
 https://code.visualstudio.com/ 
 ```
 
