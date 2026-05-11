@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/illhammf/crkosongdua-2026?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=illhammf&repo=crkosongdua-2026&color=blue&style=for-the-badge)
+
+
 # 🚀 Setup C++ di Visual Studio Code (Windows)
 Tutorial lengkap setup bahasa **C++** di **Visual Studio Code**
 menggunakan **MSYS2 + MinGW GCC** Compiler pada Windows.
